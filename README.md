@@ -1,2 +1,3 @@
 # sql-challenge
-SQL Homework
+SQL Challenge Homework
+Employee Database:  A Mystery in Two Parts
